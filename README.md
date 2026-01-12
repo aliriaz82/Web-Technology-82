@@ -1,2 +1,2 @@
 # Web-Technology-82
-This is the Software develoment course repositry 
+This is the Web Technologies course repositry 
