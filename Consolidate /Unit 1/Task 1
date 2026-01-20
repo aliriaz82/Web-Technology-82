@@ -1,1 +1,50 @@
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>My Recruitment Profile</title>
+</head>
+<body>
+
+    <!-- Main Header -->
+    <h1>My Recruitment Profile – Ali Riaz</h1>
+
+    <!-- About Me Section -->
+    <h2>About Me</h2>
+    <p>
+        My name is Ali Riaz, and I am a motivated and enthusiastic individual with a strong interest in
+        technology and digital services. I am currently seeking entry-level to junior roles in IT support,
+        web development, or technical services where I can apply my skills, gain practical experience,
+        and continue developing my professional career.
+    </p>
+
+    <!-- Skills and Experience Section -->
+    <h2>Skills and Experience</h2>
+    <p>
+        I have experience in customer service and IT support, including assisting users with technical issues,
+        troubleshooting basic hardware and software problems, and providing reliable support.
+        I also have hands-on experience with basic web technologies such as HTML and CSS,
+        along with creative design and digital printing work. I am a quick learner and work well both
+        independently and in a team environment.
+    </p>
+
+    <!-- Education Section -->
+    <h2>Education</h2>
+    <ul>
+        <li>BSc (Hons) Computing – Ongoing</li>
+        <li>Diploma in Information Technology</li>
+        <li>High School Certificate</li>
+    </ul>
+
+    <!-- Hobbies and Interests Section -->
+    <h2>Hobbies and Interests</h2>
+    <ul>
+        <li>Learning new technologies</li>
+        <li>Web design and creative projects</li>
+        <li>Problem solving</li>
+        <li>Reading about IT and technology trends</li>
+    </ul>
+
+</body>
+</html>
