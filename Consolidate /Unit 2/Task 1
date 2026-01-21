@@ -1,1 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>My Recruitment Profile</title>
+</head>
+<body>
 
+    <!-- Main Header -->
+    <h1>My Recruitment Profile – Ali Riaz</h1>
+
+    <!-- About Me Section -->
+    <h2>About Me</h2>
+    <p>
+        My name is Ali Riaz, and I am an enthusiastic and dedicated Computer Science graduate currently
+        pursuing an MSc in Computer Science in the United Kingdom. I am seeking opportunities in IT,
+        DevOps, cloud computing, or software development roles where I can apply my technical knowledge,
+        continue learning, and contribute effectively to a professional team environment.
+    </p>
+
+    <!-- Images Section -->
+    <img src="" alt="Profile Image 1">
+    <img src="" alt="Profile Image 2">
+    <img src="" alt="Profile Image 3">
+
+    <!-- Skills and Experience Section -->
+    <h2>Skills and Experience</h2>
+    <p>
+        I have hands-on experience as a DevOps Trainee, where I worked with Python scripting, Linux
+        administration, Docker containerization, and basic CI/CD pipelines. I have also assisted in
+        deploying applications using AWS cloud services. Additionally, I have experience developing
+        applications using React Native and Node.js, along with providing IT support and troubleshooting
+        technical issues. I am a strong communicator, quick learner, and reliable team player.
+    </p>
+
+    <!-- Education Section -->
+    <h2>Education</h2>
+    <ul>
+        <li>MSc Computer Science – University of Law, United Kingdom (2025 – Present)</li>
+        <li>Bachelor of Science in Computer Science – SZABIST, Pakistan (2020 – 2024)</li>
+        <li>Intermediate – Ideal Group of Colleges, Pakistan (2018 – 2020)</li>
+    </ul>
+
+    <!-- Hobbies and Interests Section -->
+    <h2>Hobbies and Interests</h2>
+    <ul>
+        <li>Learning new technologies and cloud tools</li>
+        <li>Working on personal software development projects</li>
+        <li>Problem solving and logical challenges</li>
+        <li>Reading about DevOps and emerging IT trends</li>
+    </ul>
+
+</body>
+</html>
